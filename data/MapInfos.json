@@ -1,4 +1,22 @@
 [
 null,
-{"id":1,"expanded":false,"name":"MAP001","order":1,"parentId":0,"scrollX":459,"scrollY":323.5}
+{"id":1,"expanded":true,"name":"World Map","order":1,"parentId":0,"scrollX":929.1428571428571,"scrollY":523.7142857142857},
+{"id":2,"expanded":false,"name":"Human Council City Bridge","order":2,"parentId":1,"scrollX":929.1428571428571,"scrollY":523.7142857142857},
+{"id":3,"expanded":true,"name":"Lowtown West","order":3,"parentId":1,"scrollX":929.1428571428571,"scrollY":523.7142857142857},
+{"id":4,"expanded":false,"name":"Lowtown East","order":8,"parentId":1,"scrollX":813,"scrollY":458.25},
+{"id":5,"expanded":true,"name":"Uptown West","order":13,"parentId":1,"scrollX":801,"scrollY":549.75},
+{"id":6,"expanded":false,"name":"Uptown East","order":19,"parentId":1,"scrollX":929.1428571428571,"scrollY":523.7142857142857},
+{"id":7,"expanded":false,"name":"Lowtown West Prison","order":4,"parentId":3,"scrollX":813,"scrollY":458.25},
+{"id":8,"expanded":false,"name":"Lowtown West Weapon Shop","order":5,"parentId":3,"scrollX":813,"scrollY":458.25},
+{"id":9,"expanded":false,"name":"Lowtown West Armor Shop","order":6,"parentId":3,"scrollX":929.1428571428571,"scrollY":523.7142857142857},
+{"id":10,"expanded":false,"name":"Lowtown West Apartments","order":7,"parentId":3,"scrollX":929.1428571428571,"scrollY":523.7142857142857},
+{"id":11,"expanded":false,"name":"Lowtown East INN","order":9,"parentId":4,"scrollX":929.1428571428571,"scrollY":523.7142857142857},
+{"id":12,"expanded":false,"name":"Lowtown East Tavern","order":10,"parentId":4,"scrollX":929.1428571428571,"scrollY":523.7142857142857},
+{"id":13,"expanded":false,"name":"Lowtown East Fortune Teller","order":11,"parentId":4,"scrollX":929.1428571428571,"scrollY":523.7142857142857},
+{"id":14,"expanded":false,"name":"Lowtown East Apartments","order":12,"parentId":4,"scrollX":929.1428571428571,"scrollY":523.7142857142857},
+{"id":15,"expanded":false,"name":"Uptown West Smithy","order":14,"parentId":5,"scrollX":813,"scrollY":458.25},
+{"id":16,"expanded":false,"name":"Uptown West Weapon Shop","order":16,"parentId":5,"scrollX":813,"scrollY":458.25},
+{"id":17,"expanded":false,"name":"Uptown West Armor Shop","order":15,"parentId":5,"scrollX":813,"scrollY":458.25},
+{"id":18,"expanded":false,"name":"Uptown West Cafe","order":17,"parentId":5,"scrollX":813,"scrollY":458.25},
+{"id":19,"expanded":false,"name":"Hero's House","order":18,"parentId":5,"scrollX":813,"scrollY":458.25}
 ]
