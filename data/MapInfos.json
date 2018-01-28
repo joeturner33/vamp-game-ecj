@@ -1,21 +1,9 @@
 [
-<<<<<<< HEAD
-  null,
-  {
-    "id": 1,
-    "expanded": false,
-    "name": "MAP001",
-    "order": 1,
-    "parentId": 0,
-    "scrollX": 459,
-    "scrollY": 323.5
-  }
-=======
 null,
 {"id":1,"expanded":true,"name":"World Map","order":1,"parentId":0,"scrollX":650.4,"scrollY":366.59999999999997},
 {"id":2,"expanded":false,"name":"Human Council City Bridge","order":3,"parentId":32,"scrollX":640.8,"scrollY":366.59999999999997},
 {"id":3,"expanded":false,"name":"Lowtown West","order":4,"parentId":32,"scrollX":650.4,"scrollY":366.59999999999997},
-{"id":4,"expanded":false,"name":"Lowtown East","order":9,"parentId":32,"scrollX":650.4,"scrollY":366.59999999999997},
+{"id":4,"expanded":true,"name":"Lowtown East","order":9,"parentId":32,"scrollX":650.4,"scrollY":366.59999999999997},
 {"id":5,"expanded":false,"name":"Uptown West","order":14,"parentId":32,"scrollX":640.8,"scrollY":641.4},
 {"id":6,"expanded":false,"name":"Uptown East","order":24,"parentId":32,"scrollX":640.8,"scrollY":641.4},
 {"id":7,"expanded":false,"name":"Lowtown West Prison","order":5,"parentId":3,"scrollX":640.8,"scrollY":401.4},
@@ -44,5 +32,4 @@ null,
 {"id":30,"expanded":false,"name":"Uptown East House 4","order":31,"parentId":6,"scrollX":832,"scrollY":640},
 {"id":31,"expanded":false,"name":"Uptown East House 5","order":32,"parentId":6,"scrollX":722.6666666666666,"scrollY":407.3333333333333},
 {"id":32,"expanded":true,"name":"Intro Map","order":2,"parentId":1,"scrollX":650.4,"scrollY":366.59999999999997}
->>>>>>> Eric's-changes
 ]
