@@ -254,7 +254,7 @@
     "id": 11,
     "autoRemovalTiming": 2,
     "chanceByDamage": 100,
-    "traits": [{ "code": 22, "dataId": 6, "value": 1 }, { "code": 21, "dataId": 2, "value": 1.2 }],
+    "traits": [{ "code": 22, "dataId": 6, "value": 1 }],
     "iconIndex": 97,
     "maxTurns": 1,
     "message1": "",

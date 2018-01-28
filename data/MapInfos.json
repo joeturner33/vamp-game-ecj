@@ -1,35 +1,291 @@
 [
-null,
-{"id":1,"expanded":true,"name":"World Map","order":1,"parentId":0,"scrollX":650.4,"scrollY":366.59999999999997},
-{"id":2,"expanded":false,"name":"Human Council City Bridge","order":3,"parentId":32,"scrollX":640.8,"scrollY":366.59999999999997},
-{"id":3,"expanded":false,"name":"Lowtown West","order":4,"parentId":32,"scrollX":650.4,"scrollY":366.59999999999997},
-{"id":4,"expanded":true,"name":"Lowtown East","order":9,"parentId":32,"scrollX":650.4,"scrollY":366.59999999999997},
-{"id":5,"expanded":false,"name":"Uptown West","order":14,"parentId":32,"scrollX":640.8,"scrollY":641.4},
-{"id":6,"expanded":false,"name":"Uptown East","order":24,"parentId":32,"scrollX":640.8,"scrollY":641.4},
-{"id":7,"expanded":false,"name":"Lowtown West Prison","order":5,"parentId":3,"scrollX":640.8,"scrollY":401.4},
-{"id":8,"expanded":false,"name":"Lowtown West Weapon Shop","order":6,"parentId":3,"scrollX":722.6666666666666,"scrollY":407.3333333333333},
-{"id":9,"expanded":false,"name":"Lowtown West Armor Shop","order":7,"parentId":3,"scrollX":722.6666666666666,"scrollY":407.3333333333333},
-{"id":10,"expanded":false,"name":"Lowtown West Apartments","order":8,"parentId":3,"scrollX":722.6666666666666,"scrollY":407.3333333333333},
-{"id":11,"expanded":false,"name":"Lowtown East INN","order":10,"parentId":4,"scrollX":650.4,"scrollY":366.59999999999997},
-{"id":12,"expanded":false,"name":"Lowtown East Tavern","order":11,"parentId":4,"scrollX":650.4,"scrollY":366.59999999999997},
-{"id":13,"expanded":false,"name":"Lowtown East Fortune Teller","order":12,"parentId":4,"scrollX":722.6666666666666,"scrollY":407.3333333333333},
-{"id":14,"expanded":false,"name":"Lowtown East Apartments","order":13,"parentId":4,"scrollX":650.4,"scrollY":366.59999999999997},
-{"id":15,"expanded":false,"name":"Uptown West Smithy","order":15,"parentId":5,"scrollX":650.4,"scrollY":366.59999999999997},
-{"id":16,"expanded":false,"name":"Uptown West Weapon Shop","order":17,"parentId":5,"scrollX":650.4,"scrollY":366.59999999999997},
-{"id":17,"expanded":false,"name":"Uptown West Armor Shop","order":16,"parentId":5,"scrollX":722.6666666666666,"scrollY":407.3333333333333},
-{"id":18,"expanded":false,"name":"Uptown West Cafe","order":18,"parentId":5,"scrollX":650.4,"scrollY":366.59999999999997},
-{"id":19,"expanded":false,"name":"Hero's House","order":19,"parentId":5,"scrollX":650.4,"scrollY":366.59999999999997},
-{"id":20,"expanded":false,"name":"Uptown East Item Shop","order":25,"parentId":6,"scrollX":722.6666666666666,"scrollY":407.3333333333333},
-{"id":21,"expanded":false,"name":"Uptown East Magic Shop","order":26,"parentId":6,"scrollX":650.4,"scrollY":366.59999999999997},
-{"id":22,"expanded":false,"name":"Uptown East Library","order":27,"parentId":6,"scrollX":712,"scrollY":438},
-{"id":23,"expanded":false,"name":"Uptown West House 1","order":20,"parentId":5,"scrollX":650.4,"scrollY":366.59999999999997},
-{"id":24,"expanded":false,"name":"Uptown West House 2","order":21,"parentId":5,"scrollX":722.6666666666666,"scrollY":407.3333333333333},
-{"id":25,"expanded":false,"name":"Uptown West House 3","order":22,"parentId":5,"scrollX":722.6666666666666,"scrollY":407.3333333333333},
-{"id":26,"expanded":false,"name":"Uptown West House 4","order":23,"parentId":5,"scrollX":722.6666666666666,"scrollY":407.3333333333333},
-{"id":27,"expanded":false,"name":"Uptown East House 1","order":28,"parentId":6,"scrollX":722.6666666666666,"scrollY":407.3333333333333},
-{"id":28,"expanded":false,"name":"Uptown East House 2","order":29,"parentId":6,"scrollX":832,"scrollY":640},
-{"id":29,"expanded":false,"name":"Uptown East House 3","order":30,"parentId":6,"scrollX":722.6666666666666,"scrollY":407.3333333333333},
-{"id":30,"expanded":false,"name":"Uptown East House 4","order":31,"parentId":6,"scrollX":832,"scrollY":640},
-{"id":31,"expanded":false,"name":"Uptown East House 5","order":32,"parentId":6,"scrollX":722.6666666666666,"scrollY":407.3333333333333},
-{"id":32,"expanded":true,"name":"Intro Map","order":2,"parentId":1,"scrollX":650.4,"scrollY":366.59999999999997}
+  null,
+  {
+    "id": 1,
+    "expanded": true,
+    "name": "World Map",
+    "order": 1,
+    "parentId": 0,
+    "scrollX": 459,
+    "scrollY": 323.5
+  },
+  {
+    "id": 2,
+    "expanded": false,
+    "name": "Human Council City Bridge",
+    "order": 3,
+    "parentId": 32,
+    "scrollX": 451,
+    "scrollY": 323.5
+  },
+  {
+    "id": 3,
+    "expanded": false,
+    "name": "Lowtown West",
+    "order": 4,
+    "parentId": 32,
+    "scrollX": 837,
+    "scrollY": 315.5
+  },
+  {
+    "id": 4,
+    "expanded": false,
+    "name": "Lowtown East",
+    "order": 9,
+    "parentId": 32,
+    "scrollX": 459,
+    "scrollY": 315.5
+  },
+  {
+    "id": 5,
+    "expanded": false,
+    "name": "Uptown West",
+    "order": 14,
+    "parentId": 32,
+    "scrollX": 701,
+    "scrollY": 690.5
+  },
+  {
+    "id": 6,
+    "expanded": false,
+    "name": "Uptown East",
+    "order": 24,
+    "parentId": 32,
+    "scrollX": 451,
+    "scrollY": 692.5
+  },
+  {
+    "id": 7,
+    "expanded": false,
+    "name": "Lowtown West Prison",
+    "order": 5,
+    "parentId": 3,
+    "scrollX": 451,
+    "scrollY": 323.5
+  },
+  {
+    "id": 8,
+    "expanded": false,
+    "name": "Lowtown West Weapon Shop",
+    "order": 6,
+    "parentId": 3,
+    "scrollX": 451,
+    "scrollY": 348.5
+  },
+  {
+    "id": 9,
+    "expanded": false,
+    "name": "Lowtown West Armor Shop",
+    "order": 7,
+    "parentId": 3,
+    "scrollX": 451,
+    "scrollY": 323.5
+  },
+  {
+    "id": 10,
+    "expanded": false,
+    "name": "Lowtown West Apartments",
+    "order": 8,
+    "parentId": 3,
+    "scrollX": 451,
+    "scrollY": 348.5
+  },
+  {
+    "id": 11,
+    "expanded": false,
+    "name": "Lowtown East INN",
+    "order": 10,
+    "parentId": 4,
+    "scrollX": 650.4,
+    "scrollY": 366.59999999999997
+  },
+  {
+    "id": 12,
+    "expanded": false,
+    "name": "Lowtown East Tavern",
+    "order": 11,
+    "parentId": 4,
+    "scrollX": 459,
+    "scrollY": 323.5
+  },
+  {
+    "id": 13,
+    "expanded": false,
+    "name": "Lowtown East Fortune Teller",
+    "order": 12,
+    "parentId": 4,
+    "scrollX": 722.6666666666666,
+    "scrollY": 407.3333333333333
+  },
+  {
+    "id": 14,
+    "expanded": false,
+    "name": "Lowtown East Apartments",
+    "order": 13,
+    "parentId": 4,
+    "scrollX": 650.4,
+    "scrollY": 366.59999999999997
+  },
+  {
+    "id": 15,
+    "expanded": false,
+    "name": "Uptown West Smithy",
+    "order": 15,
+    "parentId": 5,
+    "scrollX": 650.4,
+    "scrollY": 366.59999999999997
+  },
+  {
+    "id": 16,
+    "expanded": false,
+    "name": "Uptown West Weapon Shop",
+    "order": 17,
+    "parentId": 5,
+    "scrollX": 650.4,
+    "scrollY": 366.59999999999997
+  },
+  {
+    "id": 17,
+    "expanded": false,
+    "name": "Uptown West Armor Shop",
+    "order": 16,
+    "parentId": 5,
+    "scrollX": 722.6666666666666,
+    "scrollY": 407.3333333333333
+  },
+  {
+    "id": 18,
+    "expanded": false,
+    "name": "Uptown West Cafe",
+    "order": 18,
+    "parentId": 5,
+    "scrollX": 650.4,
+    "scrollY": 366.59999999999997
+  },
+  {
+    "id": 19,
+    "expanded": false,
+    "name": "Hero's House",
+    "order": 19,
+    "parentId": 5,
+    "scrollX": 650.4,
+    "scrollY": 366.59999999999997
+  },
+  {
+    "id": 20,
+    "expanded": false,
+    "name": "Uptown East Item Shop",
+    "order": 25,
+    "parentId": 6,
+    "scrollX": 722.6666666666666,
+    "scrollY": 407.3333333333333
+  },
+  {
+    "id": 21,
+    "expanded": false,
+    "name": "Uptown East Magic Shop",
+    "order": 26,
+    "parentId": 6,
+    "scrollX": 650.4,
+    "scrollY": 366.59999999999997
+  },
+  {
+    "id": 22,
+    "expanded": false,
+    "name": "Uptown East Library",
+    "order": 27,
+    "parentId": 6,
+    "scrollX": 712,
+    "scrollY": 438
+  },
+  {
+    "id": 23,
+    "expanded": false,
+    "name": "Uptown West House 1",
+    "order": 20,
+    "parentId": 5,
+    "scrollX": 650.4,
+    "scrollY": 366.59999999999997
+  },
+  {
+    "id": 24,
+    "expanded": false,
+    "name": "Uptown West House 2",
+    "order": 21,
+    "parentId": 5,
+    "scrollX": 722.6666666666666,
+    "scrollY": 407.3333333333333
+  },
+  {
+    "id": 25,
+    "expanded": false,
+    "name": "Uptown West House 3",
+    "order": 22,
+    "parentId": 5,
+    "scrollX": 722.6666666666666,
+    "scrollY": 407.3333333333333
+  },
+  {
+    "id": 26,
+    "expanded": false,
+    "name": "Uptown West House 4",
+    "order": 23,
+    "parentId": 5,
+    "scrollX": 722.6666666666666,
+    "scrollY": 407.3333333333333
+  },
+  {
+    "id": 27,
+    "expanded": false,
+    "name": "Uptown East House 1",
+    "order": 28,
+    "parentId": 6,
+    "scrollX": 722.6666666666666,
+    "scrollY": 407.3333333333333
+  },
+  {
+    "id": 28,
+    "expanded": false,
+    "name": "Uptown East House 2",
+    "order": 29,
+    "parentId": 6,
+    "scrollX": 832,
+    "scrollY": 640
+  },
+  {
+    "id": 29,
+    "expanded": false,
+    "name": "Uptown East House 3",
+    "order": 30,
+    "parentId": 6,
+    "scrollX": 722.6666666666666,
+    "scrollY": 407.3333333333333
+  },
+  {
+    "id": 30,
+    "expanded": false,
+    "name": "Uptown East House 4",
+    "order": 31,
+    "parentId": 6,
+    "scrollX": 832,
+    "scrollY": 640
+  },
+  {
+    "id": 31,
+    "expanded": false,
+    "name": "Uptown East House 5",
+    "order": 32,
+    "parentId": 6,
+    "scrollX": 722.6666666666666,
+    "scrollY": 407.3333333333333
+  },
+  {
+    "id": 32,
+    "expanded": true,
+    "name": "Intro Map",
+    "order": 2,
+    "parentId": 1,
+    "scrollX": 459,
+    "scrollY": 323.5
+  }
 ]

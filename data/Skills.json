@@ -151,7 +151,6 @@
     "description": "Increase your attack and defense",
     "effects": [
       { "code": 31, "dataId": 2, "value1": 3, "value2": 0 },
-      { "code": 31, "dataId": 2, "value1": 3, "value2": 0 },
       { "code": 31, "dataId": 3, "value1": 3, "value2": 0 }
     ],
     "hitType": 0,
@@ -1095,7 +1094,7 @@
     "animationId": 0,
     "damage": { "critical": false, "elementId": 0, "formula": "a.atk * 3 - b.def", "type": 1, "variance": 20 },
     "description": "",
-    "effects": [{ "code": 21, "dataId": 36, "value1": 0.2, "value2": 0 }],
+    "effects": [{ "code": 21, "dataId": 36, "value1": 0.1, "value2": 0 }],
     "hitType": 1,
     "iconIndex": 0,
     "message1": " bites!",

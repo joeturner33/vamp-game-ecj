@@ -1,7 +1,95 @@
 [
-null,
-{"id":1,"actions":[{"conditionParam1":0,"conditionParam2":0,"conditionType":0,"rating":5,"skillId":1},{"conditionParam1":0,"conditionParam2":0,"conditionType":0,"rating":3,"skillId":43}],"battlerHue":0,"battlerName":"Bat","dropItems":[{"dataId":1,"denominator":1,"kind":0},{"dataId":1,"denominator":1,"kind":0},{"dataId":1,"denominator":1,"kind":0}],"exp":15,"traits":[{"code":22,"dataId":0,"value":0.95},{"code":22,"dataId":1,"value":0.05},{"code":31,"dataId":1,"value":0}],"gold":0,"name":"Bat","note":"","params":[100,0,25,30,1,30,40,30]},
-{"id":2,"actions":[{"conditionParam1":0,"conditionParam2":0,"conditionType":0,"rating":4,"skillId":1},{"conditionParam1":0,"conditionParam2":0,"conditionType":0,"rating":3,"skillId":34},{"conditionParam1":0,"conditionParam2":0,"conditionType":0,"rating":3,"skillId":30},{"conditionParam1":0,"conditionParam2":0,"conditionType":0,"rating":3,"skillId":31}],"battlerHue":360,"battlerName":"Vampire","dropItems":[{"kind":2,"dataId":1,"denominator":5},{"dataId":1,"denominator":1,"kind":0},{"dataId":1,"denominator":1,"kind":0}],"exp":30,"traits":[{"code":22,"dataId":0,"value":0.95},{"code":22,"dataId":1,"value":0.05},{"code":31,"dataId":9,"value":0}],"gold":0,"name":"Vampire","note":"","params":[400,60,35,30,35,30,25,30]},
-{"id":3,"actions":[{"conditionParam1":0,"conditionParam2":0,"conditionType":0,"rating":5,"skillId":1}],"battlerHue":0,"battlerName":"Orc","dropItems":[{"dataId":1,"denominator":1,"kind":0},{"dataId":1,"denominator":1,"kind":0},{"dataId":1,"denominator":1,"kind":0}],"exp":0,"traits":[{"code":22,"dataId":0,"value":0.95},{"code":22,"dataId":1,"value":0.05},{"code":31,"dataId":1,"value":0}],"gold":0,"name":"Orc","note":"","params":[300,0,30,30,30,30,30,30]},
-{"id":4,"actions":[{"conditionParam1":0,"conditionParam2":0,"conditionType":0,"rating":5,"skillId":1}],"battlerHue":0,"battlerName":"Minotaur","dropItems":[{"dataId":1,"denominator":1,"kind":0},{"dataId":1,"denominator":1,"kind":0},{"dataId":1,"denominator":1,"kind":0}],"exp":0,"traits":[{"code":22,"dataId":0,"value":0.95},{"code":22,"dataId":1,"value":0.05},{"code":31,"dataId":1,"value":0}],"gold":0,"name":"Minotaur","note":"","params":[500,0,30,30,30,30,30,30]}
+  null,
+  {
+    "id": 1,
+    "actions": [
+      { "conditionParam1": 0, "conditionParam2": 0, "conditionType": 0, "rating": 5, "skillId": 1 },
+      { "conditionParam1": 0, "conditionParam2": 0, "conditionType": 0, "rating": 3, "skillId": 43 }
+    ],
+    "battlerHue": 0,
+    "battlerName": "Bat",
+    "dropItems": [
+      { "dataId": 1, "denominator": 1, "kind": 0 },
+      { "dataId": 1, "denominator": 1, "kind": 0 },
+      { "dataId": 1, "denominator": 1, "kind": 0 }
+    ],
+    "exp": 15,
+    "traits": [
+      { "code": 22, "dataId": 0, "value": 0.95 },
+      { "code": 22, "dataId": 1, "value": 0.05 },
+      { "code": 31, "dataId": 1, "value": 0 }
+    ],
+    "gold": 0,
+    "name": "Bat",
+    "note": "",
+    "params": [100, 0, 25, 30, 1, 30, 40, 30]
+  },
+  {
+    "id": 2,
+    "actions": [
+      { "conditionParam1": 0, "conditionParam2": 0, "conditionType": 0, "rating": 4, "skillId": 1 },
+      { "conditionParam1": 0, "conditionParam2": 0, "conditionType": 0, "rating": 3, "skillId": 34 },
+      { "conditionParam1": 0, "conditionParam2": 0, "conditionType": 0, "rating": 3, "skillId": 30 },
+      { "conditionParam1": 0, "conditionParam2": 0, "conditionType": 0, "rating": 3, "skillId": 31 }
+    ],
+    "battlerHue": 360,
+    "battlerName": "Vampire",
+    "dropItems": [
+      { "kind": 2, "dataId": 1, "denominator": 5 },
+      { "dataId": 1, "denominator": 1, "kind": 0 },
+      { "dataId": 1, "denominator": 1, "kind": 0 }
+    ],
+    "exp": 30,
+    "traits": [
+      { "code": 22, "dataId": 0, "value": 0.95 },
+      { "code": 22, "dataId": 1, "value": 0.05 },
+      { "code": 31, "dataId": 9, "value": 0 }
+    ],
+    "gold": 0,
+    "name": "Vampire",
+    "note": "",
+    "params": [520, 60, 30, 30, 30, 30, 25, 30]
+  },
+  {
+    "id": 3,
+    "actions": [{ "conditionParam1": 0, "conditionParam2": 0, "conditionType": 0, "rating": 5, "skillId": 1 }],
+    "battlerHue": 0,
+    "battlerName": "Orc",
+    "dropItems": [
+      { "dataId": 1, "denominator": 1, "kind": 0 },
+      { "dataId": 1, "denominator": 1, "kind": 0 },
+      { "dataId": 1, "denominator": 1, "kind": 0 }
+    ],
+    "exp": 0,
+    "traits": [
+      { "code": 22, "dataId": 0, "value": 0.95 },
+      { "code": 22, "dataId": 1, "value": 0.05 },
+      { "code": 31, "dataId": 1, "value": 0 }
+    ],
+    "gold": 0,
+    "name": "Orc",
+    "note": "",
+    "params": [300, 0, 30, 30, 30, 30, 30, 30]
+  },
+  {
+    "id": 4,
+    "actions": [{ "conditionParam1": 0, "conditionParam2": 0, "conditionType": 0, "rating": 5, "skillId": 1 }],
+    "battlerHue": 0,
+    "battlerName": "Minotaur",
+    "dropItems": [
+      { "dataId": 1, "denominator": 1, "kind": 0 },
+      { "dataId": 1, "denominator": 1, "kind": 0 },
+      { "dataId": 1, "denominator": 1, "kind": 0 }
+    ],
+    "exp": 0,
+    "traits": [
+      { "code": 22, "dataId": 0, "value": 0.95 },
+      { "code": 22, "dataId": 1, "value": 0.05 },
+      { "code": 31, "dataId": 1, "value": 0 }
+    ],
+    "gold": 0,
+    "name": "Minotaur",
+    "note": "",
+    "params": [500, 0, 30, 30, 30, 30, 30, 30]
+  }
 ]
