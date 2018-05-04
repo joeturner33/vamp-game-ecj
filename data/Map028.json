@@ -1108,7 +1108,18 @@
           },
           "directionFix": false,
           "image": { "tileId": 0, "characterName": "People1", "direction": 8, "pattern": 1, "characterIndex": 6 },
-          "list": [{ "code": 0, "indent": 0, "parameters": [ ] }],
+          "list": [
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["Hello there. I'm a cartographer. I've been making maps "]
+            },
+            { "code": 401, "indent": 0, "parameters": ["for the city since I was a young man like yourself."] },
+            { "code": 401, "indent": 0, "parameters": ["Nowadays I pay to have the measurements taken for me "] },
+            { "code": 401, "indent": 0, "parameters": ["and do the rest of the work here in my home."] },
+            { "code": 0, "indent": 0, "parameters": [ ] }
+          ],
           "moveFrequency": 3,
           "moveRoute": { "list": [{ "code": 0, "parameters": [ ] }], "repeat": true, "skippable": false, "wait": false },
           "moveSpeed": 3,

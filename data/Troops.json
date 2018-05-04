@@ -31,9 +31,9 @@
   {
     "id": 2,
     "members": [
-      { "enemyId": 1, "x": 60, "y": 436, "hidden": false },
-      { "enemyId": 2, "x": 271, "y": 444, "hidden": false },
-      { "enemyId": 1, "x": 117, "y": 322, "hidden": false }
+      { "enemyId": 1, "x": 44, "y": 433, "hidden": false },
+      { "enemyId": 1, "x": 111, "y": 343, "hidden": false },
+      { "enemyId": 2, "x": 262, "y": 441, "hidden": false }
     ],
     "name": "Bat+Vampire (Intro)",
     "pages": [
@@ -43,7 +43,7 @@
           "actorId": 1,
           "actorValid": false,
           "enemyHp": 100,
-          "enemyIndex": 1,
+          "enemyIndex": 2,
           "enemyValid": true,
           "switchId": 1,
           "switchValid": false,
@@ -66,7 +66,7 @@
           "actorId": 1,
           "actorValid": false,
           "enemyHp": 75,
-          "enemyIndex": 1,
+          "enemyIndex": 2,
           "enemyValid": true,
           "switchId": 1,
           "switchValid": false,
@@ -91,7 +91,7 @@
           "actorId": 1,
           "actorValid": false,
           "enemyHp": 50,
-          "enemyIndex": 1,
+          "enemyIndex": 2,
           "enemyValid": true,
           "switchId": 1,
           "switchValid": false,
@@ -117,7 +117,7 @@
           "actorId": 1,
           "actorValid": false,
           "enemyHp": 25,
-          "enemyIndex": 1,
+          "enemyIndex": 2,
           "enemyValid": true,
           "switchId": 1,
           "switchValid": false,

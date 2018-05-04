@@ -1108,7 +1108,18 @@
           },
           "directionFix": false,
           "image": { "tileId": 0, "characterName": "People4", "direction": 8, "pattern": 1, "characterIndex": 4 },
-          "list": [{ "code": 0, "indent": 0, "parameters": [ ] }],
+          "list": [
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            { "code": 401, "indent": 0, "parameters": ["I'm studying notes on potion making that were brought "] },
+            { "code": 401, "indent": 0, "parameters": ["back from the vampire city. Their insight into potion "] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["making is marvelous. They're ages ahead of us here. An "]
+            },
+            { "code": 401, "indent": 0, "parameters": ["advantage of their long lifespans I presume."] },
+            { "code": 0, "indent": 0, "parameters": [ ] }
+          ],
           "moveFrequency": 3,
           "moveRoute": { "list": [{ "code": 0, "parameters": [ ] }], "repeat": true, "skippable": false, "wait": false },
           "moveSpeed": 3,

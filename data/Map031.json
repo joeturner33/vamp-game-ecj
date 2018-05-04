@@ -1108,7 +1108,14 @@
           },
           "directionFix": false,
           "image": { "tileId": 0, "characterName": "People4", "direction": 4, "pattern": 1, "characterIndex": 3 },
-          "list": [{ "code": 0, "indent": 0, "parameters": [ ] }],
+          "list": [
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            { "code": 401, "indent": 0, "parameters": ["The council is the governmental body that makes "] },
+            { "code": 401, "indent": 0, "parameters": ["decisions for the city. They manage the tributes to "] },
+            { "code": 401, "indent": 0, "parameters": ["the vampire city and command the guards. They keep us "] },
+            { "code": 401, "indent": 0, "parameters": ["safe from the evils outside the walls."] },
+            { "code": 0, "indent": 0, "parameters": [ ] }
+          ],
           "moveFrequency": 3,
           "moveRoute": { "list": [{ "code": 0, "parameters": [ ] }], "repeat": true, "skippable": false, "wait": false },
           "moveSpeed": 3,

@@ -38,7 +38,7 @@
   },
   "currencyUnit": "G",
   "defeatMe": { "name": "Defeat1", "pan": 0, "pitch": 100, "volume": 90 },
-  "editMapId": 32,
+  "editMapId": 4,
   "elements": [
     "",
     "Physical",
@@ -237,7 +237,7 @@
   "title2Name": "",
   "titleBgm": { "name": "Theme2", "pan": 0, "pitch": 60, "volume": 90 },
   "variables": ["", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", ""],
-  "versionId": 69392124,
+  "versionId": 9768974,
   "victoryMe": { "name": "Victory1", "pan": 0, "pitch": 100, "volume": 90 },
   "weaponTypes": ["", "Sword", "Axe", "Spear", "Hammer", "Dagger", "Bow", "Crossbow", "Staff"],
   "windowTone": [0, 0, 0, 0]

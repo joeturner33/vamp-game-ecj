@@ -1265,9 +1265,13 @@
           "directionFix": false,
           "image": { "tileId": 0, "characterName": "People1", "direction": 2, "pattern": 1, "characterIndex": 5 },
           "list": [
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            { "code": 401, "indent": 0, "parameters": ["Welcome to my Item Shop!"] },
             { "code": 302, "indent": 0, "parameters": [0, 1, 0, 0, false] },
             { "code": 605, "indent": 0, "parameters": [0, 2, 0, 0] },
             { "code": 605, "indent": 0, "parameters": [0, 3, 0, 0] },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            { "code": 401, "indent": 0, "parameters": ["Have a good day!"] },
             { "code": 0, "indent": 0, "parameters": [ ] }
           ],
           "moveFrequency": 3,

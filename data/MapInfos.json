@@ -6,8 +6,8 @@
     "name": "World Map",
     "order": 1,
     "parentId": 0,
-    "scrollX": 459,
-    "scrollY": 323.5
+    "scrollX": 650.4,
+    "scrollY": 366.59999999999997
   },
   {
     "id": 2,
@@ -15,8 +15,8 @@
     "name": "Human Council City Bridge",
     "order": 3,
     "parentId": 32,
-    "scrollX": 451,
-    "scrollY": 323.5
+    "scrollX": 640.8,
+    "scrollY": 689.4
   },
   {
     "id": 3,
@@ -24,8 +24,8 @@
     "name": "Lowtown West",
     "order": 4,
     "parentId": 32,
-    "scrollX": 837,
-    "scrollY": 315.5
+    "scrollX": 650.4,
+    "scrollY": 366.59999999999997
   },
   {
     "id": 4,
@@ -33,17 +33,17 @@
     "name": "Lowtown East",
     "order": 9,
     "parentId": 32,
-    "scrollX": 459,
-    "scrollY": 315.5
+    "scrollX": 650.4,
+    "scrollY": 366.59999999999997
   },
   {
     "id": 5,
-    "expanded": false,
+    "expanded": true,
     "name": "Uptown West",
     "order": 14,
     "parentId": 32,
-    "scrollX": 701,
-    "scrollY": 690.5
+    "scrollX": 640.8,
+    "scrollY": 366.59999999999997
   },
   {
     "id": 6,
@@ -51,8 +51,8 @@
     "name": "Uptown East",
     "order": 24,
     "parentId": 32,
-    "scrollX": 451,
-    "scrollY": 692.5
+    "scrollX": 640.8,
+    "scrollY": 630.6
   },
   {
     "id": 7,
@@ -60,8 +60,8 @@
     "name": "Lowtown West Prison",
     "order": 5,
     "parentId": 3,
-    "scrollX": 451,
-    "scrollY": 323.5
+    "scrollX": 640.8,
+    "scrollY": 401.4
   },
   {
     "id": 8,
@@ -69,8 +69,8 @@
     "name": "Lowtown West Weapon Shop",
     "order": 6,
     "parentId": 3,
-    "scrollX": 451,
-    "scrollY": 348.5
+    "scrollX": 650.4,
+    "scrollY": 366.59999999999997
   },
   {
     "id": 9,
@@ -78,8 +78,8 @@
     "name": "Lowtown West Armor Shop",
     "order": 7,
     "parentId": 3,
-    "scrollX": 451,
-    "scrollY": 323.5
+    "scrollX": 722.6666666666666,
+    "scrollY": 407.3333333333333
   },
   {
     "id": 10,
@@ -87,8 +87,8 @@
     "name": "Lowtown West Apartments",
     "order": 8,
     "parentId": 3,
-    "scrollX": 451,
-    "scrollY": 348.5
+    "scrollX": 650.4,
+    "scrollY": 366.59999999999997
   },
   {
     "id": 11,
@@ -105,8 +105,8 @@
     "name": "Lowtown East Tavern",
     "order": 11,
     "parentId": 4,
-    "scrollX": 459,
-    "scrollY": 323.5
+    "scrollX": 650.4,
+    "scrollY": 366.59999999999997
   },
   {
     "id": 13,
@@ -114,8 +114,8 @@
     "name": "Lowtown East Fortune Teller",
     "order": 12,
     "parentId": 4,
-    "scrollX": 722.6666666666666,
-    "scrollY": 407.3333333333333
+    "scrollX": 650.4,
+    "scrollY": 366.59999999999997
   },
   {
     "id": 14,
@@ -150,8 +150,8 @@
     "name": "Uptown West Armor Shop",
     "order": 16,
     "parentId": 5,
-    "scrollX": 722.6666666666666,
-    "scrollY": 407.3333333333333
+    "scrollX": 650.4,
+    "scrollY": 366.59999999999997
   },
   {
     "id": 18,
@@ -177,8 +177,8 @@
     "name": "Uptown East Item Shop",
     "order": 25,
     "parentId": 6,
-    "scrollX": 722.6666666666666,
-    "scrollY": 407.3333333333333
+    "scrollX": 650.4,
+    "scrollY": 366.59999999999997
   },
   {
     "id": 21,
@@ -195,8 +195,8 @@
     "name": "Uptown East Library",
     "order": 27,
     "parentId": 6,
-    "scrollX": 712,
-    "scrollY": 438
+    "scrollX": 640.8,
+    "scrollY": 366.59999999999997
   },
   {
     "id": 23,
@@ -222,8 +222,8 @@
     "name": "Uptown West House 3",
     "order": 22,
     "parentId": 5,
-    "scrollX": 722.6666666666666,
-    "scrollY": 407.3333333333333
+    "scrollX": 650.4,
+    "scrollY": 366.59999999999997
   },
   {
     "id": 26,
@@ -231,8 +231,8 @@
     "name": "Uptown West House 4",
     "order": 23,
     "parentId": 5,
-    "scrollX": 722.6666666666666,
-    "scrollY": 407.3333333333333
+    "scrollX": 650.4,
+    "scrollY": 366.59999999999997
   },
   {
     "id": 27,
@@ -240,8 +240,8 @@
     "name": "Uptown East House 1",
     "order": 28,
     "parentId": 6,
-    "scrollX": 722.6666666666666,
-    "scrollY": 407.3333333333333
+    "scrollX": 650.4,
+    "scrollY": 366.59999999999997
   },
   {
     "id": 28,
@@ -276,16 +276,16 @@
     "name": "Uptown East House 5",
     "order": 32,
     "parentId": 6,
-    "scrollX": 722.6666666666666,
-    "scrollY": 407.3333333333333
+    "scrollX": 650.4,
+    "scrollY": 366.59999999999997
   },
   {
     "id": 32,
     "expanded": true,
-    "name": "Intro Map",
+    "name": "Guiding the Merchant Map",
     "order": 2,
     "parentId": 1,
-    "scrollX": 459,
-    "scrollY": 323.5
+    "scrollX": 650.4,
+    "scrollY": 366.59999999999997
   }
 ]

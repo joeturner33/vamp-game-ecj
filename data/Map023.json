@@ -1108,7 +1108,30 @@
           },
           "directionFix": false,
           "image": { "tileId": 0, "characterName": "People1", "direction": 4, "pattern": 1, "characterIndex": 7 },
-          "list": [{ "code": 0, "indent": 0, "parameters": [ ] }],
+          "list": [
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            { "code": 401, "indent": 0, "parameters": ["My husband died years ago at the hands of a vampire."] },
+            { "code": 401, "indent": 0, "parameters": ["We were enjoying a spring walk in the woods when it "] },
+            { "code": 401, "indent": 0, "parameters": ["attacked. They told me it had gone feral from lack of"] },
+            { "code": 401, "indent": 0, "parameters": ["feeding. It looked nothing like I had come to expect"] },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["vampires to look. It was wild. It had slumped shoulders"]
+            },
+            { "code": 401, "indent": 0, "parameters": ["unlike the regal posture of other vampires. Its eyes"] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["were fierce, no longer the cold degrading look normally"]
+            },
+            { "code": 401, "indent": 0, "parameters": ["cast on me. I could feel its bloodlust."] },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            { "code": 401, "indent": 0, "parameters": ["I will never forget that day. Nor that beast. Nor the"] },
+            { "code": 401, "indent": 0, "parameters": ["screams of my husband."] },
+            { "code": 0, "indent": 0, "parameters": [ ] }
+          ],
           "moveFrequency": 3,
           "moveRoute": { "list": [{ "code": 0, "parameters": [ ] }], "repeat": true, "skippable": false, "wait": false },
           "moveSpeed": 3,

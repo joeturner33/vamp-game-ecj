@@ -1522,7 +1522,20 @@
           },
           "directionFix": false,
           "image": { "tileId": 0, "characterName": "People2", "direction": 2, "pattern": 1, "characterIndex": 5 },
-          "list": [{ "code": 0, "indent": 0, "parameters": [ ] }],
+          "list": [
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["It is scary around here lately. My favorite patron just"]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["stopped showing up one day. No one knows where he went."]
+            },
+            { "code": 0, "indent": 0, "parameters": [ ] }
+          ],
           "moveFrequency": 3,
           "moveRoute": { "list": [{ "code": 0, "parameters": [ ] }], "repeat": true, "skippable": false, "wait": false },
           "moveSpeed": 3,
@@ -1560,7 +1573,14 @@
           },
           "directionFix": false,
           "image": { "tileId": 0, "characterName": "People3", "direction": 8, "pattern": 1, "characterIndex": 5 },
-          "list": [{ "code": 0, "indent": 0, "parameters": [ ] }],
+          "list": [
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            { "code": 401, "indent": 0, "parameters": ["The council is made up of 7 members, each serving a 7 "] },
+            { "code": 401, "indent": 0, "parameters": ["year term. Generally speaking though, the council is"] },
+            { "code": 401, "indent": 0, "parameters": ["made up entirely of residents of high town and are "] },
+            { "code": 401, "indent": 0, "parameters": ["usually re-elected until they can no longer serve."] },
+            { "code": 0, "indent": 0, "parameters": [ ] }
+          ],
           "moveFrequency": 3,
           "moveRoute": { "list": [{ "code": 0, "parameters": [ ] }], "repeat": true, "skippable": false, "wait": false },
           "moveSpeed": 3,

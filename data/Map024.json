@@ -1108,7 +1108,13 @@
           },
           "directionFix": false,
           "image": { "tileId": 0, "characterName": "People1", "direction": 2, "pattern": 1, "characterIndex": 5 },
-          "list": [{ "code": 0, "indent": 0, "parameters": [ ] }],
+          "list": [
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            { "code": 401, "indent": 0, "parameters": ["I hear that the vampires' society is structured like a"] },
+            { "code": 401, "indent": 0, "parameters": ["caste system. Older vampires hold more sway over the"] },
+            { "code": 401, "indent": 0, "parameters": ["politics of their city."] },
+            { "code": 0, "indent": 0, "parameters": [ ] }
+          ],
           "moveFrequency": 3,
           "moveRoute": { "list": [{ "code": 0, "parameters": [ ] }], "repeat": true, "skippable": false, "wait": false },
           "moveSpeed": 3,

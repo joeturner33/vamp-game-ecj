@@ -1108,7 +1108,12 @@
           },
           "directionFix": false,
           "image": { "tileId": 0, "characterName": "People1", "direction": 2, "pattern": 1, "characterIndex": 1 },
-          "list": [{ "code": 0, "indent": 0, "parameters": [ ] }],
+          "list": [
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            { "code": 401, "indent": 0, "parameters": ["I saw a monster in the water last summer. My momma"] },
+            { "code": 401, "indent": 0, "parameters": ["says not to make things up but it was real."] },
+            { "code": 0, "indent": 0, "parameters": [ ] }
+          ],
           "moveFrequency": 3,
           "moveRoute": { "list": [{ "code": 0, "parameters": [ ] }], "repeat": true, "skippable": false, "wait": false },
           "moveSpeed": 5,
@@ -1146,7 +1151,13 @@
           },
           "directionFix": false,
           "image": { "tileId": 0, "characterName": "People4", "direction": 8, "pattern": 1, "characterIndex": 3 },
-          "list": [{ "code": 0, "indent": 0, "parameters": [ ] }],
+          "list": [
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            { "code": 401, "indent": 0, "parameters": ["Every summer my family and I travel to a small fishing"] },
+            { "code": 401, "indent": 0, "parameters": ["village to the north. The water is beautiful there and"] },
+            { "code": 401, "indent": 0, "parameters": ["my husband loves to fish."] },
+            { "code": 0, "indent": 0, "parameters": [ ] }
+          ],
           "moveFrequency": 3,
           "moveRoute": { "list": [{ "code": 0, "parameters": [ ] }], "repeat": true, "skippable": false, "wait": false },
           "moveSpeed": 3,
